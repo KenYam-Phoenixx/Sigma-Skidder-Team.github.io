@@ -1,0 +1,16 @@
+{
+  "versions": [
+    {
+      "id": "1.16.4",
+      "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/download/1.16.4.json"
+    },
+    {
+      "id": "1.15.2",
+      "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/1.15.2/1.15.2.json"
+    },
+    {
+      "id": "1.21",
+      "url": "https://github.com/MarkGG8181/cloud/raw/refs/heads/main/sigma/download/1.21.json"
+    }
+  ]
+}
